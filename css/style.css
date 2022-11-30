@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: black;
+}
+
+.header-block {
+    margin-top: 30px;
+    width: 350px;
+    height: 600px;
+    background: #504c4c;
+    border-radius: 50px;
+    border: solid white;
+
+}
+
+.title {
+    margin-top: 10px;
+    width: 120px;
+    height: 25px;
+    margin-left: 34%;
+    background: black;
+    border-radius: 15px;
+}
+
+.come {
+    margin-top: 20px;
+    width: 320px;
+    height: 470px;
+    margin-left: 15px;
+    background: white;
+    border-radius: 5px;
+}
+
+.see {
+    width: 70px;
+    height: 50px;
+    background: black;
+    border-radius: 30px;
+    margin-left: 39%;
+    margin-top: 15px;
+}
+
+.come h1 {
+    position: absolute;
+    font-size: 40px;
+    color: #ffffff;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+.come p {
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 70px;
+    color: white;
+}
+
+.come img {
+    /*position: relative;*/
+    width: 320px;
+    height: 470px;
+}
+
+.come a {
+    position: absolute;
+    top: 78%;
+    left: 90px;
+    font-size: 18px;
+    color: white;
+    margin-left: 10%;
+}
+
+.see img {
+    /*position: absolute;*/
+    top: 585px;
+    width: 70px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 2px;
+    font-size: 18px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

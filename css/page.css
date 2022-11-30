@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: black;
+}
+
+.header-block {
+    margin-top: 30px;
+    width: 350px;
+    height: 600px;
+    background: #504c4c;
+    border-radius: 50px;
+    border: solid white;
+
+}
+
+.title {
+    margin-top: 10px;
+    width: 120px;
+    height: 25px;
+    margin-left: 34%;
+    background: black;
+    border-radius: 15px;
+}
+
+.come {
+    margin-top: 20px;
+    width: 320px;
+    height: 470px;
+    margin-left: 15px;
+    background: white;
+    border-radius: 5px;
+}
+
+.see {
+    width: 70px;
+    height: 50px;
+    background: black;
+    border-radius: 30px;
+    margin-left: 39%;
+    margin-top: 15px;
+}
+
+.text {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 250px;
+    border-radius: 30px;
+    height: 40px;
+    background: #504c4c;
+}
+
+.text input {
+    margin-left: 35px;
+    margin-top: 10px;
+    border: none;
+    background: #504c4c;
+}
+
+.top img {
+    margin-top: 430px;
+    margin-left: 40px;
+    width: 30px;
+    height: 30px;
+}
+
+.come h1 {
+    position: absolute;
+    top: 15%;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.my img {
+    position: absolute;
+    margin-left: 19%;
+    border: none;
+    margin-top: 10px;
+    width: 40px;
+}
+
+.see img {
+    /*position: absolute;*/
+    top: 585px;
+    width: 70px;
+    height: 50px;
+    border-radius: 30px;
+    margin-left: 2px;
+    font-size: 18px;
+    color: white;
+}
+
+.vercal h2 {
+    position: absolute;
+    top: 35%;
+    margin-left: 25px;
+    color: rgb(80, 76, 76);
+    font-size: 40px;
+}
+
+.vercal p {
+    position: absolute;
+    top: 42%;
+    color: rgba(0, 0, 0, 0.99);
+    margin-left: 25px;
+}
+
+.top h4 {
+    position: absolute;
+    margin-top: -230px;
+    font-size: 30px;
+    color: #ff2f00;
+    margin-left: 35px;
+}
+
+.top a {
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 15%;
+    color: rgba(175, 17, 225, 0.52);
+    font-size: 25px;
+
+}
+
+.come {
+    background: url("../img/ppp.jpg") no-repeat bottom center/cover;
+}
+
+.be img {
+    position: absolute;
+    margin-left: 22%;
+    border: none;
+    margin-top: -150px;
+    width: 25px;
+}
+
+
+
+
